@@ -1,0 +1,5 @@
+Ja 90 85 76
+Alex 100 95
+Chris 70 80 75 60
+BadGuy 200 -10 90
+Empty
